@@ -1,0 +1,22 @@
+     body {
+         background-color: black;
+     }
+     
+     table {
+         width: 50px;
+     }
+     
+     tr {
+         height: 50px;
+     }
+     
+     td {
+         background-color: black;
+         padding: 30px;
+         border-radius: 50px;
+     }
+     
+     .html-table {
+         margin-top: 35px;
+         margin-left: 55px;
+     }
